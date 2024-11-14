@@ -1,0 +1,6 @@
+venv
+.DS_Store
+*.pyo
+__pycache__/
+.hypothesis/
+.idea/
